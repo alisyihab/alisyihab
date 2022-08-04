@@ -11,7 +11,7 @@ a man who loves coding :relaxed:
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :zap:  In my free time, I spend time playing a video game :laughing:.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alisyihab-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alisyihab/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alisyihab-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alisyihab/)
 
 ## 🌱 I’m currently learning
 - NodeJs
