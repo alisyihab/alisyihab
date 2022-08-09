@@ -23,4 +23,3 @@ a man who loves coding :relaxed:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisyihab&show_icons=true&locale=en&layout=compact" alt="alisyihab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisyihab&" alt="alisyihab" /></p>
