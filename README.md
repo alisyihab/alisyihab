@@ -15,6 +15,7 @@ a man who loves coding :relaxed:
 
 ## 🌱 I’m currently learning
 - NodeJs
+- Golang
 - Flutter
 
 <h3 align="left">Languages and Tools:</h3>
