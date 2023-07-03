@@ -19,8 +19,6 @@ a man who loves coding :relaxed:
 - Flutter
 
 ##
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisyihab&count_private=true&include_all_commits=true&show_icons=true&hide=issues)]()
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisyihab)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
