@@ -27,7 +27,7 @@ a man who loves coding :relaxed:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://nodejs.com" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="javascript" width="40" height="40"/> 
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
