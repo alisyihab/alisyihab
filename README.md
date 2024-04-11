@@ -19,7 +19,6 @@ a man who loves coding :relaxed:
 
 - NodeJs
 - Golang
-- Flutter
 
 ##
 
