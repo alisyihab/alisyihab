@@ -48,4 +48,3 @@ a man who loves coding :relaxed:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"></a>
  </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alisyihab)](https://github.com/anuraghazra/github-readme-stats)
